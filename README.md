@@ -1,2 +1,4 @@
 # Personal-Finances-Dashboard
-Here is a example copy of a Personal Finances Dashboard. All the figures are made up.
+I have made a Personal Finances Dashboard on Excel which I use to budget and make predictions of my yearly disposable income. I have attached a plain version, and a copy with made up figures.
+Credits to Thomas Frank for the original template found here:[https://thomasjfrank.com/free-budgeting-spreadsheet-template/]
+
